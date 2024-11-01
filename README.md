@@ -1,6 +1,6 @@
 # Movies-Browser
 
-This is a group project made by our group called "Lima". Our task was to make the project according to Figma and implement all the functions and data of the website using TMDB API. The application allows you to browse and search for different movies, as well as people associated with them, cast and crew. You can also see some details about them. 
+The project made according to the provided design in Figma using TMDB API. The site allows you to browse and search for the most popular movies, cast and crew.
 
 # Introduction
 
